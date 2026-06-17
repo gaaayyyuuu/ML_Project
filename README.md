@@ -8,7 +8,6 @@ The objective of this project is to analyze data and build a machine learning mo
 ## Technologies Used
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
 - Matplotlib
 
